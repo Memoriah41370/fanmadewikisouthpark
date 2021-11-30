@@ -1,0 +1,1851 @@
+body{
+
+	background-image:url(../images/bus.JPG);
+background-attachment:fixed;
+background-repeat:no-repeat;
+background-size: 100%;
+}
+
+
+#accueil {
+
+background-color:#1c9350;
+	position: fixed;
+     top: 0%;
+     left: 0%;
+     right: 0%;
+ 
+    
+	height:14%;
+	border: solid;
+}
+
+#liste {
+
+	color:black;
+
+}
+
+.texte{
+
+position: fixed;
+color:black;
+border:solid;
+border-right-color:transparent;
+height:14%;
+top:0%;
+left:0%;
+}
+
+.navigation{
+top:1%;
+left:8%;
+position: fixed;
+
+}
+
+
+
+.texte1{
+border:solid;
+border-right-color:transparent;
+height:14%;
+top:0%;
+position: fixed;
+color:black;
+left:16%;
+
+}
+
+.navigation1{
+top:1%;
+position: fixed;
+left: 24%;
+
+
+}
+
+
+.texte2{
+border:solid;
+border-right-color:transparent;
+height:14%;
+top:0%;
+left: 30%;
+position: fixed;
+
+}
+
+.navigation2{
+top:1%;
+position: fixed;
+left: 37%;
+
+
+}
+
+.texte3{
+border:solid;
+border-right-color:transparent;
+height:14%;
+top:0%;
+left: 49%;
+position:fixed;
+
+}
+
+.texte4{
+border:solid;
+border-right-color:transparent;
+height:14%;
+top:0%;
+left: 63%;
+position:fixed;
+
+}
+
+
+
+.navigation4{
+top:1%;
+position: fixed;
+left: 66%;
+
+
+}
+
+
+
+.texte5{
+
+left: 78%;
+position:fixed;
+border:solid;
+border-right-color:transparent;
+height:14%;
+top:0%;
+}
+
+
+
+.navigation5{
+top:1%;
+position: fixed;
+left: 80%;
+
+}
+
+.texte6{
+border:solid;
+border-right-color:transparent;
+height:14%;
+top:0%;
+left: 88%;
+position:fixed;
+
+}
+
+
+
+.navigation6{
+top:1%;
+position: fixed;
+left: 92%;
+
+
+}
+
+
+#lien{
+
+
+background-color: white;
+border:solid;
+top:15%;
+position:fixed;
+width: 10%;
+height:60%;
+
+}
+
+
+
+
+#Jésus{
+	 box-shadow: 0px 9px 10px 3px black;
+	background-color: white;
+border:solid;
+position: absolute;
+left:35%;
+right:35%;
+top:20%;
+width:30%;
+height:50%;
+
+  z-index: -1; 
+}
+
+.imagej{
+
+
+border-left-color: transparent;
+border-right-color:transparent; 
+
+width:98%;
+ margin-left:20%;
+
+}
+
+
+
+.nomj{
+
+border:solid;
+border-left-color: transparent;
+border-right-color:transparent; 
+margin-left: 0%;
+
+}
+
+#Satan{
+	box-shadow: 0px 9px 10px 3px black;
+	background-color: white;
+border:solid;
+position: absolute;
+left:35%;
+right:35%;
+top:80%;
+width:30%;
+height:57%;
+
+  z-index: -1; 
+}
+
+.images{
+border-left-color: transparent;
+border-right-color:transparent; 
+
+width:98%;
+ margin-left:30%;
+}
+
+
+.noms{
+
+border:solid;
+border-left-color: transparent;
+border-right-color:transparent; 
+margin-right: 0%;
+
+	}
+
+
+	#Hankey{
+	 box-shadow: 0px 9px 10px 3px black;
+	background-color: white;
+border:solid;
+position: absolute;
+left:35%;
+right:35%;
+top:140%;
+width:30%;
+height:68%;
+
+  z-index: -1; 
+}
+
+.imageh{
+
+
+border-left-color: transparent;
+border-right-color:transparent; 
+
+width:98%;
+ margin-left:20%;
+
+}
+
+.nomh{
+
+border:solid;
+border-left-color: transparent;
+border-right-color:transparent; 
+margin-left: 0%;
+
+}
+
+#Randy{
+	box-shadow: 0px 9px 10px 3px black;
+	background-color: white;
+border:solid;
+position: absolute;
+left:35%;
+right:35%;
+top:215%;
+width:30%;
+height:58%;
+
+  z-index: -1; 
+}
+
+.imager{
+border-left-color: transparent;
+border-right-color:transparent; 
+
+width:98%;
+ margin-left:30%;
+}
+
+
+.nomr{
+
+border:solid;
+border-left-color: transparent;
+border-right-color:transparent; 
+margin-right: 0%;
+
+	}
+
+
+		#Garrison{
+	 box-shadow: 0px 9px 10px 3px black;
+	background-color: white;
+border:solid;
+position: absolute;
+left:35%;
+right:35%;
+top:280%;
+width:30%;
+height:66%;
+
+  z-index: -1; 
+}
+
+.imageg{
+
+
+border-left-color: transparent;
+border-right-color:transparent; 
+
+width:98%;
+ margin-left:20%;
+
+}
+
+.nomg{
+
+border:solid;
+border-left-color: transparent;
+border-right-color:transparent; 
+margin-left: 0%;
+
+}
+
+#Tuong{
+	box-shadow: 0px 9px 10px 3px black;
+	background-color: white;
+border:solid;
+position: absolute;
+left:35%;
+right:35%;
+top:350%;
+width:30%;
+height:55%;
+
+  z-index: -1; 
+}
+
+.imaget{
+border-left-color: transparent;
+border-right-color:transparent; 
+
+width:98%;
+ margin-left:30%;
+}
+
+
+.nomt{
+
+border:solid;
+border-left-color: transparent;
+border-right-color:transparent; 
+margin-right: 0%;
+
+	}
+
+			#Barbrady{
+	 box-shadow: 0px 9px 10px 3px black;
+	background-color: white;
+border:solid;
+position: absolute;
+left:35%;
+right:35%;
+top:410%;
+width:30%;
+height:58%;
+
+  z-index: -1; 
+}
+
+.imageb{
+
+
+border-left-color: transparent;
+border-right-color:transparent; 
+
+width:98%;
+ margin-left:20%;
+
+}
+
+.nomb{
+
+border:solid;
+border-left-color: transparent;
+border-right-color:transparent; 
+margin-left: 0%;
+
+}
+
+
+#Ned{
+	box-shadow: 0px 9px 10px 3px black;
+	background-color: white;
+border:solid;
+position: absolute;
+left:35%;
+right:35%;
+top:475%;
+width:30%;
+height:55%;
+
+  z-index: -1; 
+}
+
+.imagen{
+border-left-color: transparent;
+border-right-color:transparent; 
+
+width:98%;
+ margin-left:30%;
+}
+
+
+.nomn{
+
+border:solid;
+border-left-color: transparent;
+border-right-color:transparent; 
+margin-right: 0%;
+
+	}
+
+				#Servietsky{
+	 box-shadow: 0px 9px 10px 3px black;
+	background-color: white;
+border:solid;
+position: absolute;
+left:35%;
+right:35%;
+top:535%;
+width:30%;
+height:78%;
+
+  z-index: -1; 
+}
+
+.imagese{
+
+
+border-left-color: transparent;
+border-right-color:transparent; 
+
+width:98%;
+ margin-left:20%;
+
+}
+
+.nomse{
+
+border:solid;
+border-left-color: transparent;
+border-right-color:transparent; 
+margin-left: 0%;
+
+}
+
+
+
+
+#Mcdaniels{
+	box-shadow: 0px 9px 10px 3px black;
+	background-color: white;
+border:solid;
+position: absolute;
+left:35%;
+right:35%;
+top:618%;
+width:30%;
+height:50%;
+
+  z-index: -1; 
+}
+
+.imagem{
+border-left-color: transparent;
+border-right-color:transparent; 
+
+width:98%;
+ margin-left:30%;
+}
+
+
+.nomm{
+
+border:solid;
+border-left-color: transparent;
+border-right-color:transparent; 
+margin-right: 0%;
+
+	}
+
+
+				#PC{
+	 box-shadow: 0px 9px 10px 3px black;
+	background-color: white;
+border:solid;
+position: absolute;
+left:35%;
+right:35%;
+top:673%;
+width:30%;
+height:56%;
+
+  z-index: -1; 
+}
+
+.imagep{
+
+
+border-left-color: transparent;
+border-right-color:transparent; 
+
+width:98%;
+ margin-left:20%;
+
+}
+
+.nomp{
+
+border:solid;
+border-left-color: transparent;
+border-right-color:transparent; 
+margin-left: 0%;
+
+}
+
+
+
+#DR{
+	box-shadow: 0px 9px 10px 3px black;
+	background-color: white;
+border:solid;
+position: absolute;
+left:35%;
+right:35%;
+top:735%;
+width:30%;
+height:50%;
+
+  z-index: -1; 
+}
+
+.imaged{
+border-left-color: transparent;
+border-right-color:transparent; 
+
+width:98%;
+ margin-left:30%;
+}
+
+
+.nomd{
+
+border:solid;
+border-left-color: transparent;
+border-right-color:transparent; 
+margin-right: 0%;
+
+	}
+
+
+				#Chef{
+	 box-shadow: 0px 9px 10px 3px black;
+	background-color: white;
+border:solid;
+position: absolute;
+left:35%;
+right:35%;
+top:790%;
+width:30%;
+height:76%;
+
+  z-index: -1; 
+}
+
+.imagech{
+
+
+border-left-color: transparent;
+border-right-color:transparent; 
+
+width:98%;
+ margin-left:20%;
+
+}
+
+.nomch{
+
+border:solid;
+border-left-color: transparent;
+border-right-color:transparent; 
+margin-left: 0%;
+
+}
+
+
+
+				#TetP{
+	 box-shadow: 0px 9px 10px 3px black;
+	background-color: white;
+border:solid;
+position: absolute;
+left:35%;
+right:35%;
+top:870%;
+width:30%;
+height:61%;
+
+  z-index: -1; 
+}
+
+.imagetp{
+
+
+border-left-color: transparent;
+border-right-color:transparent; 
+
+width:98%;
+ margin-left:20%;
+
+}
+
+.nomtp{
+
+border:solid;
+border-left-color: transparent;
+border-right-color:transparent; 
+margin-left: 0%;
+
+}
+
+
+#Harris{
+	box-shadow: 0px 9px 10px 3px black;
+	background-color: white;
+border:solid;
+position: absolute;
+left:35%;
+right:35%;
+top:935%;
+width:30%;
+height:50%;
+
+  z-index: -1; 
+}
+
+.imageha{
+border-left-color: transparent;
+border-right-color:transparent; 
+
+width:98%;
+ margin-left:30%;
+}
+
+
+.nomha{
+
+border:solid;
+border-left-color: transparent;
+border-right-color:transparent; 
+margin-right: 0%;
+
+	}
+
+
+
+
+
+				#Mackey{
+	 box-shadow: 0px 9px 10px 3px black;
+	background-color: white;
+border:solid;
+position: absolute;
+left:35%;
+right:35%;
+top:990%;
+width:30%;
+height:51%;
+
+  z-index: -1; 
+}
+
+.imagemac{
+
+
+border-left-color: transparent;
+border-right-color:transparent; 
+
+width:98%;
+ margin-left:20%;
+
+}
+
+.nommac{
+
+border:solid;
+border-left-color: transparent;
+border-right-color:transparent; 
+margin-left: 0%;
+
+}
+
+#Maxi{
+	box-shadow: 0px 9px 10px 3px black;
+	background-color: white;
+border:solid;
+position: absolute;
+left:35%;
+right:35%;
+top:1048%;
+width:30%;
+height:50%;
+
+  z-index: -1; 
+}
+
+.imagemax{
+border-left-color: transparent;
+border-right-color:transparent; 
+
+width:98%;
+ margin-left:30%;
+}
+
+
+.nommax{
+
+border:solid;
+border-left-color: transparent;
+border-right-color:transparent; 
+margin-right: 0%;
+
+	}
+
+
+
+
+				#Scott{
+	 box-shadow: 0px 9px 10px 3px black;
+	background-color: white;
+border:solid;
+position: absolute;
+left:35%;
+right:35%;
+top:1105%;
+width:30%;
+height:55%;
+
+  z-index: -1; 
+}
+
+.imagesco{
+
+
+border-left-color: transparent;
+border-right-color:transparent; 
+
+
+ margin-left:20%;
+
+}
+
+.nomsco{
+
+border:solid;
+border-left-color: transparent;
+border-right-color:transparent; 
+margin-left: 0%;
+
+}
+
+
+
+				#Timmy{
+	 box-shadow: 0px 9px 10px 3px black;
+	background-color: white;
+border:solid;
+position: absolute;
+left:35%;
+right:35%;
+top:1165%;
+width:30%;
+height:60%;
+
+  z-index: -1; 
+}
+
+.imagetim{
+
+
+border-left-color: transparent;
+border-right-color:transparent; 
+
+
+ margin-left:30%;
+
+}
+
+.nomtim{
+
+border:solid;
+border-left-color: transparent;
+border-right-color:transparent; 
+margin-left: 0%;
+
+}
+
+
+				#Nathan{
+	 box-shadow: 0px 9px 10px 3px black;
+	background-color: white;
+border:solid;
+position: absolute;
+left:35%;
+right:35%;
+top:1235%;
+width:30%;
+height:52%;
+
+  z-index: -1; 
+}
+
+.imagenat{
+
+
+border-left-color: transparent;
+border-right-color:transparent; 
+
+
+margin-left:40%;
+
+}
+
+.nomnat{
+
+border:solid;
+border-left-color: transparent;
+border-right-color:transparent; 
+margin-left: 0%;
+
+}
+
+
+
+				#Mimsy{
+	 box-shadow: 0px 9px 10px 3px black;
+	background-color: white;
+border:solid;
+position: absolute;
+left:35%;
+right:35%;
+top:1295%;
+width:30%;
+height:47%;
+
+  z-index: -1; 
+}
+
+.imagemim{
+
+
+border-left-color: transparent;
+border-right-color:transparent; 
+
+
+margin-left:40%;
+
+}
+
+.nommim{
+
+border:solid;
+border-left-color: transparent;
+border-right-color:transparent; 
+margin-left: 0%;
+
+}
+
+
+
+
+				#Ghot{
+	 box-shadow: 0px 9px 10px 3px black;
+	background-color: white;
+border:solid;
+position: absolute;
+left:35%;
+right:35%;
+top:1350%;
+width:30%;
+height:60%;
+
+  z-index: -1; 
+}
+
+.imageGhot{
+
+
+border-left-color: transparent;
+border-right-color:transparent; 
+
+
+margin-left:30%;
+
+}
+
+.nomGhot{
+
+border:solid;
+border-left-color: transparent;
+border-right-color:transparent; 
+margin-left: 0%;
+
+}
+
+
+				#Jimbo{
+	 box-shadow: 0px 9px 10px 3px black;
+	background-color: white;
+border:solid;
+position: absolute;
+left:35%;
+right:35%;
+top:1415%;
+width:30%;
+height:51%;
+
+  z-index: -1; 
+}
+
+.imagejim{
+
+
+border-left-color: transparent;
+border-right-color:transparent; 
+
+
+margin-left:30%;
+
+}
+
+.nomjim{
+
+border:solid;
+border-left-color: transparent;
+border-right-color:transparent; 
+margin-left: 0%;
+
+}
+
+
+				#Homme{
+	 box-shadow: 0px 9px 10px 3px black;
+	background-color: white;
+border:solid;
+position: absolute;
+left:35%;
+right:35%;
+top:1470%;
+width:30%;
+height:51%;
+
+  z-index: -1; 
+}
+
+.imagehomme{
+
+
+border-left-color: transparent;
+border-right-color:transparent; 
+
+
+margin-left:30%;
+
+}
+
+.nomhomme{
+
+border:solid;
+border-left-color: transparent;
+border-right-color:transparent; 
+margin-left: 0%;
+
+}
+
+
+				#Animaux{
+	 box-shadow: 0px 9px 10px 3px black;
+	background-color: white;
+border:solid;
+position: absolute;
+left:35%;
+right:35%;
+top:1528%;
+width:30%;
+height:49%;
+
+  z-index: -1; 
+}
+
+.imageanim{
+
+
+border-left-color: transparent;
+border-right-color:transparent; 
+
+
+margin-left:30%;
+
+}
+
+.nomanim{
+
+border:solid;
+border-left-color: transparent;
+border-right-color:transparent; 
+margin-left: 0%;
+
+}
+
+
+				#Noël{
+	 box-shadow: 0px 9px 10px 3px black;
+	background-color: white;
+border:solid;
+position: absolute;
+left:35%;
+right:35%;
+top:1583%;
+width:30%;
+height:49%;
+
+  z-index: -1; 
+}
+
+.imagenol{
+
+
+border-left-color: transparent;
+border-right-color:transparent; 
+
+
+margin-left:30%;
+
+}
+
+.nomnol{
+
+border:solid;
+border-left-color: transparent;
+border-right-color:transparent; 
+margin-left: 0%;
+
+}
+
+
+
+				#Winnie{
+	 box-shadow: 0px 9px 10px 3px black;
+	background-color: white;
+border:solid;
+position: absolute;
+left:35%;
+right:35%;
+top:1640%;
+width:30%;
+height:50%;
+
+  z-index: -1; 
+}
+
+.imagewin{
+
+
+border-left-color: transparent;
+border-right-color:transparent; 
+
+
+margin-left:30%;
+
+}
+
+.nomwin{
+
+border:solid;
+border-left-color: transparent;
+border-right-color:transparent; 
+margin-left: 0%;
+
+}
+
+			#Mickey{
+	 box-shadow: 0px 9px 10px 3px black;
+	background-color: white;
+border:solid;
+position: absolute;
+left:35%;
+right:35%;
+top:1700%;
+width:30%;
+height:50%;
+
+  z-index: -1; 
+}
+
+.imagemick{
+
+
+border-left-color: transparent;
+border-right-color:transparent; 
+
+
+margin-left:30%;
+
+}
+
+.nommick{
+
+border:solid;
+border-left-color: transparent;
+border-right-color:transparent; 
+margin-left: 0%;
+
+}
+
+			#MèreS{
+	 box-shadow: 0px 9px 10px 3px black;
+	background-color: white;
+border:solid;
+position: absolute;
+left:35%;
+right:35%;
+top:1760%;
+width:30%;
+height:50%;
+
+  z-index: -1; 
+}
+
+.imageMS{
+
+
+border-left-color: transparent;
+border-right-color:transparent; 
+
+
+margin-left:30%;
+
+}
+
+.nomMS{
+
+border:solid;
+border-left-color: transparent;
+border-right-color:transparent; 
+margin-left: 0%;
+
+}
+
+			#Shelly{
+	 box-shadow: 0px 9px 10px 3px black;
+	background-color: white;
+border:solid;
+position: absolute;
+left:35%;
+right:35%;
+top:1820%;
+width:30%;
+height:50%;
+
+  z-index: -1; 
+}
+
+.imagesh{
+
+
+border-left-color: transparent;
+border-right-color:transparent; 
+
+
+margin-left:30%;
+
+}
+
+.nomsh{
+
+border:solid;
+border-left-color: transparent;
+border-right-color:transparent; 
+margin-left: 0%;
+
+}
+
+
+			#Sheila{
+	 box-shadow: 0px 9px 10px 3px black;
+	background-color: white;
+border:solid;
+position: absolute;
+left:35%;
+right:35%;
+top:1875%;
+width:30%;
+height:50%;
+
+  z-index: -1; 
+}
+
+.imageshei{
+
+
+border-left-color: transparent;
+border-right-color:transparent; 
+
+
+margin-left:30%;
+
+}
+
+.nomshei{
+
+border:solid;
+border-left-color: transparent;
+border-right-color:transparent; 
+margin-left: 0%;
+
+}
+
+
+
+			#Gerald{
+	 box-shadow: 0px 9px 10px 3px black;
+	background-color: white;
+border:solid;
+position: absolute;
+left:35%;
+right:35%;
+top:1930%;
+width:30%;
+height:50%;
+
+  z-index: -1; 
+}
+
+.imagege{
+
+
+border-left-color: transparent;
+border-right-color:transparent; 
+
+
+margin-left:30%;
+
+}
+
+.nomge{
+
+border:solid;
+border-left-color: transparent;
+border-right-color:transparent; 
+margin-left: 0%;
+
+}
+
+			#Ike{
+	 box-shadow: 0px 9px 10px 3px black;
+	background-color: white;
+border:solid;
+position: absolute;
+left:35%;
+right:35%;
+top:1985%;
+width:30%;
+height:52%;
+
+  z-index: -1; 
+}
+
+.imageike{
+
+
+border-left-color: transparent;
+border-right-color:transparent; 
+
+
+margin-left:30%;
+
+}
+
+.nomike{
+
+border:solid;
+border-left-color: transparent;
+border-right-color:transparent; 
+margin-left: 0%;
+
+}
+
+
+			#Carol{
+	 box-shadow: 0px 9px 10px 3px black;
+	background-color: white;
+border:solid;
+position: absolute;
+left:35%;
+right:35%;
+top:2040%;
+width:30%;
+height:50%;
+
+  z-index: -1; 
+}
+
+.imageca{
+
+
+border-left-color: transparent;
+border-right-color:transparent; 
+
+
+margin-left:30%;
+
+}
+
+.nomca{
+
+border:solid;
+border-left-color: transparent;
+border-right-color:transparent; 
+margin-left: 0%;
+
+}
+
+			#Stuart{
+	 box-shadow: 0px 9px 10px 3px black;
+	background-color: white;
+border:solid;
+position: absolute;
+left:35%;
+right:35%;
+top:2095%;
+width:30%;
+height:50%;
+
+  z-index: -1; 
+}
+
+.imagest{
+
+
+border-left-color: transparent;
+border-right-color:transparent; 
+
+
+margin-left:30%;
+
+}
+
+.nomst{
+
+border:solid;
+border-left-color: transparent;
+border-right-color:transparent; 
+margin-left: 0%;
+
+}
+
+
+			#Kevin{
+	 box-shadow: 0px 9px 10px 3px black;
+	background-color: white;
+border:solid;
+position: absolute;
+left:35%;
+right:35%;
+top:2150%;
+width:30%;
+height:50%;
+
+  z-index: -1; 
+}
+
+.imageke{
+
+
+border-left-color: transparent;
+border-right-color:transparent; 
+
+
+margin-left:30%;
+
+}
+
+.nomke{
+
+border:solid;
+border-left-color: transparent;
+border-right-color:transparent; 
+margin-left: 0%;
+
+}
+
+
+			#Karen{
+	 box-shadow: 0px 9px 10px 3px black;
+	background-color: white;
+border:solid;
+position: absolute;
+left:35%;
+right:35%;
+top:2205%;
+width:30%;
+height:50%;
+
+  z-index: -1; 
+}
+
+.imageka{
+
+
+border-left-color: transparent;
+border-right-color:transparent; 
+
+
+margin-left:30%;
+
+}
+
+.nomka{
+
+border:solid;
+border-left-color: transparent;
+border-right-color:transparent; 
+margin-left: 0%;
+
+}
+
+
+			#Liane{
+	 box-shadow: 0px 9px 10px 3px black;
+	background-color: white;
+border:solid;
+position: absolute;
+left:35%;
+right:35%;
+top:2260%;
+width:30%;
+height:50%;
+
+  z-index: -1; 
+}
+
+.imageli{
+
+
+border-left-color: transparent;
+border-right-color:transparent; 
+
+
+margin-left:30%;
+
+}
+
+.nomli{
+
+border:solid;
+border-left-color: transparent;
+border-right-color:transparent; 
+margin-left: 0%;
+
+}
+
+
+			#Marvin{
+	 box-shadow: 0px 9px 10px 3px black;
+	background-color: white;
+border:solid;
+position: absolute;
+left:35%;
+right:35%;
+top:2315%;
+width:30%;
+height:50%;
+
+  z-index: -1; 
+}
+
+.imagemar{
+
+
+border-left-color: transparent;
+border-right-color:transparent; 
+
+
+margin-left:30%;
+
+}
+
+.nommar{
+
+border:solid;
+border-left-color: transparent;
+border-right-color:transparent; 
+margin-left: 0%;
+
+}
+
+
+
+			#Cthulhu{
+	 box-shadow: 0px 9px 10px 3px black;
+	background-color: white;
+border:solid;
+position: absolute;
+left:35%;
+right:35%;
+top:2370%;
+width:30%;
+height:50%;
+
+  z-index: -1; 
+}
+
+.imagect{
+
+
+border-left-color: transparent;
+border-right-color:transparent; 
+
+
+margin-left:30%;
+
+}
+
+.nomct{
+
+border:solid;
+border-left-color: transparent;
+border-right-color:transparent; 
+margin-left: 0%;
+
+}
+
+
+
+
+			#Alien{
+	 box-shadow: 0px 9px 10px 3px black;
+	background-color: white;
+border:solid;
+position: absolute;
+left:35%;
+right:35%;
+top:2425%;
+width:30%;
+height:50%;
+
+  z-index: -1; 
+}
+
+.imageal{
+
+
+border-left-color: transparent;
+border-right-color:transparent; 
+
+
+margin-left:30%;
+
+}
+
+.nomal{
+
+border:solid;
+border-left-color: transparent;
+border-right-color:transparent; 
+margin-left: 0%;
+
+}
+
+
+			#Toque{
+	 box-shadow: 0px 9px 10px 3px black;
+	background-color: white;
+border:solid;
+position: absolute;
+left:35%;
+right:35%;
+top:2480%;
+width:30%;
+height:50%;
+
+  z-index: -1; 
+}
+
+.imagetoq{
+
+
+border-left-color: transparent;
+border-right-color:transparent; 
+
+
+margin-left:30%;
+
+}
+
+.nomtoq{
+
+border:solid;
+border-left-color: transparent;
+border-right-color:transparent; 
+margin-left: 0%;
+
+}
+
+			#Esclave{
+	 box-shadow: 0px 9px 10px 3px black;
+	background-color: white;
+border:solid;
+position: absolute;
+left:35%;
+right:35%;
+top:2535%;
+width:30%;
+height:51%;
+
+  z-index: -1; 
+}
+
+.imagesl{
+
+
+border-left-color: transparent;
+border-right-color:transparent; 
+
+
+margin-left:30%;
+
+}
+
+.nomsl{
+
+border:solid;
+border-left-color: transparent;
+border-right-color:transparent; 
+margin-left: 0%;
+
+}
+
+			#Gollum{
+	 box-shadow: 0px 9px 10px 3px black;
+	background-color: white;
+border:solid;
+position: absolute;
+left:35%;
+right:35%;
+top:2590%;
+width:30%;
+height:51%;
+
+  z-index: -1; 
+}
+
+.imagego{
+
+
+border-left-color: transparent;
+border-right-color:transparent; 
+
+
+margin-left:30%;
+
+}
+
+.nomgo{
+
+border:solid;
+border-left-color: transparent;
+border-right-color:transparent; 
+margin-left: 0%;
+
+}
+
+			#Victoria{
+	 box-shadow: 0px 9px 10px 3px black;
+	background-color: white;
+border:solid;
+position: absolute;
+left:35%;
+right:35%;
+top:2645%;
+width:30%;
+height:51%;
+
+  z-index: -1; 
+}
+
+.imagev{
+
+
+border-left-color: transparent;
+border-right-color:transparent; 
+
+
+margin-left:30%;
+
+}
+
+.nomv{
+
+border:solid;
+border-left-color: transparent;
+border-right-color:transparent; 
+margin-left: 0%;
+
+}
+
+			#Bebe{
+	 box-shadow: 0px 9px 10px 3px black;
+	background-color: white;
+border:solid;
+position: absolute;
+left:35%;
+right:35%;
+top:2700%;
+width:30%;
+height:51%;
+
+  z-index: -1; 
+}
+
+.imagebb{
+
+
+border-left-color: transparent;
+border-right-color:transparent; 
+
+
+margin-left:30%;
+
+}
+
+.nombb{
+
+border:solid;
+border-left-color: transparent;
+border-right-color:transparent; 
+margin-left: 0%;
+
+}
+
+
+
+
+
+
+
+
+
+
+#support{
+
+background-color:#1c9350;
+
+	position: absolute;
+      top:2800%;
+     left: 0%;
+     right: 0%;
+ 
+    
+	height:14%;
+	border: solid;
+
+}
+
+.tsupport{
+
+	margin-top: 2.5%;
+margin-left: 45%;
+    color : white;
+      }
+
+
+.tsupport:hover
+{
+    color : black;
+
+ text-decoration: underline;
+ 
+}
+
+#haut{
+
+
+background-color:white;
+
+	position: absolute;
+      top:15%;
+
+     right: 0%;
+ 
+    
+	
+	border: solid;
+z-index: -1;
+}
+
+
+
+#bas{
+
+
+
+
+background-color:white;
+
+	position: absolute;
+      top:2797%;
+
+     right: 0%;
+ 
+    
+	
+	border: solid;
+
+
+z-index: -1;
+
+
+
+}

@@ -1,0 +1,798 @@
+body{
+
+	background-image:url(../images/bus.JPG);
+background-attachment:fixed;
+background-repeat:no-repeat;
+background-size: 100%;
+}
+
+
+#accueil {
+
+background-color:#1c9350;
+
+	position: fixed;
+     top: 0%;
+     left: 0%;
+     right: 0%;
+ 
+    
+	height:14%;
+	border: solid;
+}
+
+
+.liste {
+
+	color:black;
+
+}
+
+.texte{
+
+position: fixed;
+color:black;
+border:solid;
+border-right-color:transparent;
+height:14%;
+top:0%;
+left:0%;
+}
+
+.navigation{
+top:1%;
+left:8%;
+position: fixed;
+
+}
+
+.texte1{
+border:solid;
+border-right-color:transparent;
+height:14%;
+top:0%;
+position: fixed;
+color:black;
+left:16%;
+
+}
+
+.navigation1{
+top:1%;
+position: fixed;
+left: 24%;
+
+
+}
+
+
+
+.texte2{
+border:solid;
+border-right-color:transparent;
+height:14%;
+top:0%;
+left: 30%;
+position: fixed;
+
+}
+
+
+.texte3{
+border:solid;
+border-right-color:transparent;
+height:14%;
+top:0%;
+left: 49%;
+position:fixed;
+
+}
+
+
+
+.navigation3{
+top:1%;
+position: fixed;
+left: 57%;
+
+
+}
+
+.texte4{
+border:solid;
+border-right-color:transparent;
+height:14%;
+top:0%;
+left: 63%;
+position:fixed;
+
+}
+
+
+
+.navigation4{
+top:1%;
+position: fixed;
+left: 66%;
+
+
+}
+
+
+
+.texte5{
+
+left: 78%;
+position:fixed;
+border:solid;
+border-right-color:transparent;
+height:14%;
+top:0%;
+}
+
+
+
+.navigation5{
+top:1%;
+position: fixed;
+left: 80%;
+
+}
+
+
+.texte6{
+border:solid;
+border-right-color:transparent;
+height:14%;
+top:0%;
+left: 88%;
+position:fixed;
+
+}
+
+
+
+.navigation6{
+top:1%;
+position: fixed;
+left: 92%;
+
+
+}
+
+
+#lien{
+
+
+background-color: white;
+border:solid;
+top:15%;
+position:fixed;
+width: 10%;
+height:19%;
+
+}
+
+
+
+
+
+
+#Zuck{
+	 box-shadow: 0px 9px 10px 3px black;
+	background-color: white;
+border:solid;
+position: absolute;
+left:35%;
+right:35%;
+top:20%;
+width:30%;
+height:50%;
+
+  z-index: -1; 
+}
+
+.imagezuck{
+
+
+border-left-color: transparent;
+border-right-color:transparent; 
+
+width:98%;
+ margin-left:40%;
+
+}
+
+
+
+.nomzuck{
+
+border:solid;
+border-left-color: transparent;
+border-right-color:transparent; 
+margin-left: 0%;
+
+}
+
+#Steve{
+	 box-shadow: 0px 9px 10px 3px black;
+	background-color: white;
+border:solid;
+position: absolute;
+left:35%;
+right:35%;
+top:80%;
+width:30%;
+height:55%;
+
+  z-index: -1; 
+}
+
+.imagejob{
+
+
+border-left-color: transparent;
+border-right-color:transparent; 
+
+width:98%;
+ margin-left:40%;
+
+}
+
+
+
+.nomjob{
+
+border:solid;
+border-left-color: transparent;
+border-right-color:transparent; 
+margin-left: 0%;
+
+}
+
+
+
+#Paris{
+	 box-shadow: 0px 9px 10px 3px black;
+	background-color: white;
+border:solid;
+position: absolute;
+left:35%;
+right:35%;
+top:145%;
+width:30%;
+height:50%;
+
+  z-index: -1; 
+}
+
+.imagepari{
+
+
+border-left-color: transparent;
+border-right-color:transparent; 
+
+width:98%;
+ margin-left:40%;
+
+}
+
+
+
+.nompari{
+
+border:solid;
+border-left-color: transparent;
+border-right-color:transparent; 
+margin-left: 0%;
+
+}
+
+
+#Bar{
+	 box-shadow: 0px 9px 10px 3px black;
+	background-color: white;
+border:solid;
+position: absolute;
+left:35%;
+right:35%;
+top:205%;
+width:30%;
+height:50%;
+
+  z-index: -1; 
+}
+
+.imagebar{
+
+
+border-left-color: transparent;
+border-right-color:transparent; 
+
+width:98%;
+ margin-left:40%;
+
+}
+
+
+
+.nombar{
+
+border:solid;
+border-left-color: transparent;
+border-right-color:transparent; 
+margin-left: 0%;
+
+}
+
+
+
+
+
+#Sad{
+	 box-shadow: 0px 9px 10px 3px black;
+	background-color: white;
+border:solid;
+position: absolute;
+left:35%;
+right:35%;
+top:265%;
+width:30%;
+height:53%;
+
+  z-index: -1; 
+}
+
+.imagesad{
+
+
+border-left-color: transparent;
+border-right-color:transparent; 
+
+width:98%;
+ margin-left:40%;
+
+}
+
+
+
+.nomsad{
+
+border:solid;
+border-left-color: transparent;
+border-right-color:transparent; 
+margin-left: 0%;
+
+}
+
+
+#Barack{
+	 box-shadow: 0px 9px 10px 3px black;
+	background-color: white;
+border:solid;
+position: absolute;
+left:35%;
+right:35%;
+top:325%;
+width:30%;
+height:48%;
+
+  z-index: -1; 
+}
+
+.imagerac{
+
+
+border-left-color: transparent;
+border-right-color:transparent; 
+
+width:98%;
+ margin-left:40%;
+
+}
+
+
+
+.nomrac{
+
+border:solid;
+border-left-color: transparent;
+border-right-color:transparent; 
+margin-left: 0%;
+
+}
+
+
+
+#Free{
+	 box-shadow: 0px 9px 10px 3px black;
+	background-color: white;
+border:solid;
+position: absolute;
+left:35%;
+right:35%;
+top:385%;
+width:30%;
+height:50%;
+
+  z-index: -1; 
+}
+
+.imagefre{
+
+
+border-left-color: transparent;
+border-right-color:transparent; 
+
+width:98%;
+ margin-left:40%;
+
+}
+
+
+
+.nomfre{
+
+border:solid;
+border-left-color: transparent;
+border-right-color:transparent; 
+margin-left: 0%;
+
+}
+
+
+
+
+
+
+
+
+
+
+#AL{
+	 box-shadow: 0px 9px 10px 3px black;
+	background-color: white;
+border:solid;
+position: absolute;
+left:35%;
+right:35%;
+top:445%;
+width:30%;
+height:50%;
+
+  z-index: -1; 
+}
+
+.imageAL{
+
+
+border-left-color: transparent;
+border-right-color:transparent; 
+
+width:98%;
+ margin-left:40%;
+
+}
+
+
+
+.nomAL{
+
+border:solid;
+border-left-color: transparent;
+border-right-color:transparent; 
+margin-left: 0%;
+
+}
+
+
+#Ben{
+	 box-shadow: 0px 9px 10px 3px black;
+	background-color: white;
+border:solid;
+position: absolute;
+left:35%;
+right:35%;
+top:505%;
+width:30%;
+height:50%;
+
+  z-index: -1; 
+}
+
+.imagebe{
+
+
+border-left-color: transparent;
+border-right-color:transparent; 
+
+width:98%;
+ margin-left:40%;
+
+}
+
+
+
+.nombe{
+
+border:solid;
+border-left-color: transparent;
+border-right-color:transparent; 
+margin-left: 0%;
+
+}
+
+
+
+
+
+
+#Lorde{
+	 box-shadow: 0px 9px 10px 3px black;
+	background-color: white;
+border:solid;
+position: absolute;
+left:35%;
+right:35%;
+top:565%;
+width:30%;
+height:50%;
+
+  z-index: -1; 
+}
+
+.imagelo{
+
+
+border-left-color: transparent;
+border-right-color:transparent; 
+
+width:98%;
+ margin-left:40%;
+
+}
+
+
+
+.nomlo{
+
+border:solid;
+border-left-color: transparent;
+border-right-color:transparent; 
+margin-left: 0%;
+
+}
+
+
+#Ozzy{
+	 box-shadow: 0px 9px 10px 3px black;
+	background-color: white;
+border:solid;
+position: absolute;
+left:35%;
+right:35%;
+top:625%;
+width:30%;
+height:50%;
+
+  z-index: -1; 
+}
+
+.imageoz{
+
+
+border-left-color: transparent;
+border-right-color:transparent; 
+
+width:98%;
+ margin-left:40%;
+
+}
+
+
+
+.nomoz{
+
+border:solid;
+border-left-color: transparent;
+border-right-color:transparent; 
+margin-left: 0%;
+
+}
+
+
+
+#Jack{
+	 box-shadow: 0px 9px 10px 3px black;
+	background-color: white;
+border:solid;
+position: absolute;
+left:35%;
+right:35%;
+top:695%;
+width:30%;
+height:58%;
+
+  z-index: -1; 
+}
+
+.imagejac{
+
+
+border-left-color: transparent;
+border-right-color:transparent; 
+
+width:98%;
+ margin-left:35%;
+
+}
+
+
+
+.nomjac{
+
+border:solid;
+border-left-color: transparent;
+border-right-color:transparent; 
+margin-left: 0%;
+
+}
+
+
+
+#Trump{
+	 box-shadow: 0px 9px 10px 3px black;
+	background-color: white;
+border:solid;
+position: absolute;
+left:35%;
+right:35%;
+top:765%;
+width:30%;
+height:48%;
+
+  z-index: -1; 
+}
+
+.imagetr{
+
+
+border-left-color: transparent;
+border-right-color:transparent; 
+
+width:98%;
+ margin-left:40%;
+
+}
+
+
+
+.nomtr{
+
+border:solid;
+border-left-color: transparent;
+border-right-color:transparent; 
+margin-left: 0%;
+
+}
+
+
+
+#Elton{
+	 box-shadow: 0px 9px 10px 3px black;
+	background-color: white;
+border:solid;
+position: absolute;
+left:35%;
+right:35%;
+top:825%;
+width:30%;
+height:48%;
+
+  z-index: -1; 
+}
+
+.imageel{
+
+
+border-left-color: transparent;
+border-right-color:transparent; 
+
+width:98%;
+ margin-left:40%;
+
+}
+
+
+
+.nomel{
+
+border:solid;
+border-left-color: transparent;
+border-right-color:transparent; 
+margin-left: 0%;
+
+}
+
+
+
+
+
+
+
+
+
+
+#support{
+
+background-color:#1c9350;
+
+	position: absolute;
+      top:900%;
+     left: 0%;
+     right: 0%;
+ 
+    
+	height:14%;
+	border: solid;
+
+}
+
+.tsupport{
+
+	margin-top: 2.5%;
+margin-left: 45%;
+    color : white;
+      }
+
+
+.tsupport:hover
+{
+    color : black;
+
+ text-decoration: underline;
+ 
+}
+
+
+
+#haut{
+
+
+background-color:white;
+
+	position: absolute;
+      top:15%;
+
+     right: 0%;
+ 
+    
+	
+	border: solid;
+z-index: -1;
+}
+
+
+
+#bas{
+
+
+
+
+background-color:white;
+
+	position: absolute;
+      top:897%;
+
+     right: 0%;
+ 
+    
+	
+	border: solid;
+
+
+z-index: -1;
+
+
+
+}

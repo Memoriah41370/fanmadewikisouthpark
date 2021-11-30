@@ -1,0 +1,520 @@
+body{
+
+	background-image:url(../images/bus.JPG);
+background-attachment:fixed;
+background-repeat:no-repeat;
+background-size: 100%;
+}
+
+
+#accueil {
+
+background-color:#1c9350;
+
+	position: fixed;
+     top: 0%;
+     left: 0%;
+     right: 0%;
+ 
+    
+	height:14%;
+	border: solid;
+}
+
+
+.texte{
+position: fixed;
+color:black;
+border:solid;
+border-right-color:transparent;
+height:14%;
+top:0%;
+left:0%;
+}
+
+.navigation{
+
+left:8%;
+position: fixed;
+
+}
+
+
+.texte1{
+border:solid;
+border-right-color:transparent;
+height:14%;
+top:0%;
+position: fixed;
+color:black;
+left:16%;
+
+}
+
+}
+
+.navigation1{
+top:1%;
+position: fixed;
+left: 24%;
+
+
+}
+
+.texte2{
+border:solid;
+border-right-color:transparent;
+height:14%;
+top:0%;
+left: 30%;
+position: fixed;
+
+}
+
+.navigation2{
+top:1%;
+position: fixed;
+left: 37%;
+
+
+}
+
+
+
+
+.texte3{
+border:solid;
+border-right-color:transparent;
+height:14%;
+top:0%;
+left: 49%;
+position:fixed;
+
+}
+
+
+
+.navigation3{
+top:1%;
+position: fixed;
+left: 57%;
+
+
+}
+
+.texte4{
+border:solid;
+border-right-color:transparent;
+height:14%;
+top:0%;
+left: 63%;
+position:fixed;
+
+}
+
+
+
+.navigation4{
+top:1%;
+position: fixed;
+left: 66%;
+
+
+}
+
+
+
+.texte5{
+
+left: 78%;
+position:fixed;
+border:solid;
+border-right-color:transparent;
+height:14%;
+top:0%;
+}
+
+
+
+.navigation5{
+top:1%;
+position: fixed;
+left: 80%;
+
+}
+
+.texte6{
+border:solid;
+border-right-color:transparent;
+height:14%;
+top:0%;
+left: 88%;
+position:fixed;
+
+}
+
+
+
+.navigation6{
+top:1%;
+position: fixed;
+left: 92%;
+
+
+}
+
+
+
+#lien{
+
+
+background-color: white;
+border:solid;
+top:15%;
+position:fixed;
+width: 10%;
+height:37%;
+
+}
+
+
+
+
+
+
+#Craig{
+	 box-shadow: 0px 9px 10px 3px  black;
+	background-color: white;
+border:solid;
+position: absolute;
+left:35%;
+right:35%;
+top:30%;
+width:30%;
+height:88%;
+
+  z-index: -1; 
+}
+
+.imagec{
+
+
+border-left-color: transparent;
+border-right-color:transparent; 
+
+
+
+}
+
+
+
+.nomc{
+
+border:solid;
+border-left-color: transparent;
+border-right-color:transparent; 
+margin-left: 0%;
+
+}
+
+#Butters{
+	box-shadow: 0px 9px 10px 3px black;
+	background-color: white;
+border:solid;
+position: absolute;
+left:35%;
+right:35%;
+top:125%;
+width:30%;
+height:68%;
+
+  z-index: -1; 
+}
+
+.imageb{
+border-left-color: transparent;
+border-right-color:transparent; 
+
+width:98%;
+
+}
+
+.nomb{
+
+border:solid;
+border-left-color: transparent;
+border-right-color:transparent; 
+margin-right: 0%;
+
+	}
+
+#Jimmy{
+	box-shadow: 0px 9px 10px 3px  black;
+	background-color: white;
+border:solid;
+position: absolute;
+left:35%;
+right:35%;
+top:200%;
+width:30%;
+height:65%;
+
+  z-index: -1; 
+}
+
+.imagej{
+border-left-color: transparent;
+border-right-color:transparent; 
+
+
+}
+
+
+.nomj{
+
+border:solid;
+border-left-color: transparent;
+border-right-color:transparent; 
+margin-right: 0%;
+
+	}
+
+
+#Tweek{
+	box-shadow: 0px 9px 10px 3px  black;
+	background-color: white;
+border:solid;
+position: absolute;
+left:35%;
+right:35%;
+top:275%;
+width:30%;
+height:70%;
+
+  z-index: -1; 
+}
+
+.imaget{
+border-left-color: transparent;
+border-right-color:transparent; 
+
+}
+
+
+.nomt{
+
+border:solid;
+border-left-color: transparent;
+border-right-color:transparent; 
+margin-right: 0%;
+
+	}
+
+
+#Token{
+	box-shadow: 0px 9px 10px 3px  black;
+	background-color: white;
+border:solid;
+position: absolute;
+left:35%;
+right:35%;
+top:355%;
+width:30%;
+height:70%;
+
+  z-index: -1; 
+}
+
+.imageto{
+border-left-color: transparent;
+border-right-color:transparent; 
+}
+
+
+
+.nomto{
+
+border:solid;
+border-left-color: transparent;
+border-right-color:transparent; 
+margin-left: 0%;
+
+	}
+
+#Clyde{
+
+	box-shadow: 0px 9px 10px 3px black;
+	background-color: white;
+border:solid;
+position: absolute;
+left:35%;
+right:35%;
+top:435%;
+width:30%;
+height:80%;
+
+  z-index: -1; 
+}
+
+.imagecl{
+border-left-color: transparent;
+border-right-color:transparent; 
+}
+
+
+
+
+.nomcl{
+
+border:solid;
+border-left-color: transparent;
+border-right-color:transparent; 
+margin-right: 0%;
+
+	}
+
+
+.attributcl{
+
+position: absolute;
+z-index:100;
+
+}
+
+
+#Wendy{
+	box-shadow: 0px 9px 10px 3px  black;
+	background-color: white;
+border:solid;
+position: absolute;
+left:35%;
+right:35%;
+top:525%;
+width:30%;
+height:70%;
+
+  z-index: -1; 
+}
+
+.imagew{
+border-left-color: transparent;
+border-right-color:transparent; 
+
+}
+
+
+.nomw{
+
+border:solid;
+border-left-color: transparent;
+border-right-color:transparent; 
+margin-left: 0%;
+
+	}
+
+
+
+#Heidi{
+	box-shadow: 0px 9px 10px 3px  black;
+	background-color: white;
+border:solid;
+position: absolute;
+left:35%;
+right:35%;
+top:605%;
+width:30%;
+height:65%;
+
+  z-index: -1; 
+}
+
+.imageh{
+border-left-color: transparent;
+border-right-color:transparent; 
+
+}
+
+.nomh{
+
+border:solid;
+border-left-color: transparent;
+border-right-color:transparent; 
+margin-left: 0%;
+
+	}
+
+
+
+
+#support{
+
+background-color:#1c9350;
+
+	position: absolute;
+    
+     top:690%;
+     left: 0%;
+     right: 0%;
+ 
+    
+	height:14%;
+	border: solid;
+
+}
+
+.tsupport{
+
+	margin-top: 2.5%;
+margin-left: 45%;
+      }
+
+
+.tsupport:hover
+{
+    color : black;
+
+ text-decoration: underline;
+ 
+}
+
+
+#haut{
+
+
+background-color:white;
+
+	position: absolute;
+      top:15%;
+
+     right: 0%;
+ 
+    
+	
+	border: solid;
+z-index: -1;
+}
+
+
+
+#bas{
+
+
+
+
+background-color:white;
+
+	position: absolute;
+      top:687%;
+
+     right: 0%;
+ 
+    
+	
+	border: solid;
+
+
+z-index: -1;
+
+
+
+}
